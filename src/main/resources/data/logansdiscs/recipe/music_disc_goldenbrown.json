@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "FNF",
+    " F "
+  ],
+  "key": {
+    "F": { "item": "minecraft:gold_nugget" },
+    "N": { "item": "logansdiscs:music_disc_base" }
+  },
+  "result": {
+    "id": "logansdiscs:music_disc_goldenbrown",
+    "count": 1
+  }
+}

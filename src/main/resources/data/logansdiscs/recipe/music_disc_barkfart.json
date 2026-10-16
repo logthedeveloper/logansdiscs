@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "FNF",
+    " F "
+  ],
+  "key": {
+    "F": { "item": "minecraft:emerald" },
+    "N": { "item": "logansdiscs:music_disc_base" }
+  },
+  "result": {
+    "id": "logansdiscs:music_disc_barkfart",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "sound_event": "logansdiscs:music_disc.velvet",
+  "description": { "text": "Velvet" },
+  "length_in_seconds": 204,
+  "comparator_output": 11
+}

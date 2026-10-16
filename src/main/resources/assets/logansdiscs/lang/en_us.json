@@ -1,0 +1,14 @@
+{
+  "itemGroup.logansdiscs": "Discs",
+  "item.logansdiscs.music_disc_barkfart": "barkfart",
+  "item.logansdiscs.music_disc_aureasol": "Aurea Sol",
+  "item.logansdiscs.music_disc_goldenbrown": "Golden Brown",
+  "item.logansdiscs.music_disc_base": "Music Disc Base",
+  "logansdiscs.configuration.title": "logansdiscs Configs",
+  "logansdiscs.configuration.section.logansdiscs.common.toml": "logansdiscs Configs",
+  "logansdiscs.configuration.section.logansdiscs.common.toml.title": "logansdiscs Configs",
+  "logansdiscs.configuration.items": "Item List",
+  "logansdiscs.configuration.logDirtBlock": "Log Dirt Block",
+  "logansdiscs.configuration.magicNumberIntroduction": "Magic Number Text",
+  "logansdiscs.configuration.magicNumber": "Magic Number"
+}

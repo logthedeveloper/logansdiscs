@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "logansdiscs:item/music_disc_ice_spikes"
+  }
+}

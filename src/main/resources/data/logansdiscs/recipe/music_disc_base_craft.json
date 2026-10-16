@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " F ",
+    "N N",
+    " F "
+  ],
+  "key": {
+    "F": { "item": "minecraft:flint" },
+    "N": { "item": "minecraft:iron_nugget" }
+  },
+  "result": {
+    "id": "logansdiscs:music_disc_base",
+    "count": 1
+  }
+}

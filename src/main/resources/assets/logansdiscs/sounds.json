@@ -1,0 +1,66 @@
+{
+  "music_disc.barkfart": {
+    "sounds": [
+      {
+        "name": "logansdiscs:barkfart",
+        "stream": true,
+        "attenuation_distance": 4
+      }
+    ]
+  },
+
+  "music_disc.goldenbrown": {
+    "sounds": [
+      {
+        "name": "logansdiscs:goldenbrown",
+        "stream": true,
+        "attenuation_distance": 4
+      }
+    ]
+  },
+  "music_disc.aureasol": {
+    "sounds": [
+      {
+        "name": "logansdiscs:aureasol",
+        "stream": true,
+        "attenuation_distance": 4
+      }
+    ]
+  },
+  "music_disc.velvet": {
+    "sounds": [
+      {
+        "name": "logansdiscs:velvet",
+        "stream": true,
+        "attenuation_distance": 4
+      }
+    ]
+  },
+  "music_disc.trees": {
+    "sounds": [
+      {
+        "name": "logansdiscs:trees",
+        "stream": true,
+        "attenuation_distance": 4
+      }
+    ]
+  },
+  "music_disc.ice_spikes": {
+    "sounds": [
+      {
+        "name": "logansdiscs:ice_spikes",
+        "stream": true,
+        "attenuation_distance": 4
+      }
+    ]
+  },
+  "music_disc.monke": {
+    "sounds": [
+      {
+        "name": "logansdiscs:monke",
+        "stream": true,
+        "attenuation_distance": 4
+      }
+    ]
+  }
+}
